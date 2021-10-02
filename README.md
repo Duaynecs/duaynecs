@@ -1,6 +1,6 @@
 ### Olá... 👋
 
-- 🔭 Tentando seguindo a filosofia KISS(keep it simple stupid)!!!😎
+- 🔭 Tentando seguir a filosofia KISS(keep it simple stupid)!!!😎
 
 
   <div style="display: inline_block"><br>
